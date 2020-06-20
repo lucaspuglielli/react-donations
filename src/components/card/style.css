@@ -1,0 +1,28 @@
+.carddoacoes{
+    border: 2px solid #3d8ca1;
+    border-radius: 10px;
+    padding: 20px;
+    display: inline-block;
+    background-color: white;
+    color: #20232A;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    width: 280px;
+}
+
+button {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+}
